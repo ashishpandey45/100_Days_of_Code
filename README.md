@@ -15,7 +15,7 @@ The projects will be organized in the following structure:
 
 
 
-![Project Structure](structure.jpg)
+![Project Structure](https://i.imgur.com/EUpw1XO.jpg)
 
 
 Each project directory will contain the Python script(s) for that particular day's project and a `README.md` file documenting the project's details, including its purpose, functionality, and any relevant instructions or notes.
