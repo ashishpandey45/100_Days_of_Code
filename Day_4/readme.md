@@ -58,13 +58,13 @@ What do you choose? Type 0 for Rock, 1 for Paper and 2 for Scissors.
 
 You chose:
 
-![Paper](./paper.png)
+![Paper](paper.png)
 
 
 
 Computer chose:
 
-![Rock](./rock.png)
+![Rock](rock.png)
 
 You win!
 
