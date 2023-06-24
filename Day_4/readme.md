@@ -58,13 +58,13 @@ What do you choose? Type 0 for Rock, 1 for Paper and 2 for Scissors.
 
 You chose:
 
-![Paper](paper.png)
+![Paper](https://i.imgur.com/PQDJJlq.png)
 
 
 
 Computer chose:
 
-![Rock](rock.png)
+![Rock](https://i.imgur.com/HU55X6l.png)
 
 You win!
 
