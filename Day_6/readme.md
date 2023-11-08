@@ -12,6 +12,15 @@ This repository contains a Python solution for the Maze game in Reeborg's World.
 4. Paste the code into the Reeborg's World editor.
 5. Click on the 'Run' button to see Reeborg navigate the maze!
 
+## Usage
+Start:
+
+![Start](https://i.imgur.com/ZcqH1xG.png)
+
+Finish:
+
+![Finish](https://i.imgur.com/GLgRNDm.png)
+
 ## Code Overview
 
 The `main.py` script uses a simple algorithm to navigate the maze. Reeborg follows the right wall of the maze until it reaches the end. If Reeborg encounters a wall, it turns left and continues moving forward.
